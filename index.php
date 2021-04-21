@@ -10,7 +10,7 @@
 <div id="body">
 <body>
 	<div id="container">
-	<h1>Data Mahasiswa</h1>
+	<h1>Data Siswa</h1>
 </div>
 		<a href= '<?php echo base_url("mahasiswa/tambah");?>'class="footer">Tambah Data</a><br><br>
 	</div>
