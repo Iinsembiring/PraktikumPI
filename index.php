@@ -11,7 +11,8 @@
 <body>
 	<div id="container">
 	<h1>Data Siswa</h1>
-	<h2>Menambahkan Tag</h2>
+	<h2>Menambahkan iin</h2>
+	<p>Aku adalah iin</p>
 </div>
 		<a href= '<?php echo base_url("mahasiswa/tambah");?>'class="footer">Tambah Data</a><br><br>
 	</div>
